@@ -1,6 +1,6 @@
 import numpy as np
 
-x = -5
+x = -10
 
 res = np.abs(x)
 
